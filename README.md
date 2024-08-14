@@ -5,9 +5,28 @@
 This project provides a comprehensive analysis of real estate data from Mississippi, Michigan, and the broader Midwest, focusing on two primary aspects. First, it examines how the number of bedrooms impacts property prices in Mississippi, revealing a clear correlation between increased bedroom count and higher property values. Second, the project explores property sales trends in Michigan from 2021 to 2022, placing these trends within the context of other Midwestern states. This analysis includes a detailed examination of average property prices, sales volumes, and other key indicators, offering valuable insights into the dynamics of the housing market across these regions.
 
 ### Questions
-1. How does bedroom count impact the average price of a property in Mississippi?
-2. Is there a correlation between population size and the number of properties sold in the Midwest?
+1. What is the average price of homes in different states and  how does it compare to the national average?
+2. How does bedroom count impact the average price of a property in Mississippi?
+3. Is there a correlation between population size and the number of properties sold in the Midwest?
 
+## Average Price of Homes and Comparison to National Average
+
+The analysis aimed to discover the average prices of homes sold and bought in the 50 states present in the data set. It aimed to show the disparity in cost of living and the differences in property prices across different states
+
+#### Findings
+
+1. **Most expensive states**: The analysis uncovered that the top three states were Hawaii, Virgin Islands and District of Columbia(All clocking an average of 12 million dollars going up)
+2. **Comparison to the national average**: Using the mean function, a dotted line was drawn representing the national average on the bar graph representing the states' averages. The average prices of homes in 40% of the states was above the national average with 60% of the states being below the national average.
+   
+### Visualizations
+
+**[Average Price of Homes in Different States](https://imgur.com/G6oqKiY.png)**
+
+![Average Price of Homes in Different States](https://imgur.com/G6oqKiY.png)
+
+**[Average Price of Homes in Different States Compared to National Average](https://imgur.com/1Zho5H1.png)**
+
+![Average Price of Homes in Different States Compared to National Average](https://imgur.com/1Zho5H1.png)
 
 ## Mississippi Real Estate Analysis: Impact of Bedroom Count on Property Prices
 
@@ -18,6 +37,11 @@ The analysis of real estate data from Mississippi focused on understanding how t
 1. **Positive Correlation**: There is a strong positive correlation between the number of bedrooms and the average price of a home. As the number of bedrooms increases, so does the average price, with properties having more bedrooms commanding significantly higher prices.
 2. **Price Growth by Bedroom Count**: The analysis shows that homes with more than four bedrooms see a steep increase in price, indicating higher demand or larger home sizes as contributing factors.
 
+### Visualizations
+
+**[Average price of Homes in Mississippi based on Number of Bedrooms](https://imgur.com/y30ke8c.png)**
+
+![Average price of Homes in Mississippi based on Number of Bedrooms](https://imgur.com/y30ke8c.png)
 
 ## Michigan/Midwestern Real Estate Sales (2021 vs 2022)
 
