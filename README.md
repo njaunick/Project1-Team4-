@@ -2,7 +2,7 @@ Colorado Real Estate Analysis :
 
 This analysis purpose is to show the average price of houses in the cities and show the availability of homes in the specific cities in Colorado. The data was used to first group the cities by the amount of listings that they have available and then use the average price of the home.
 
-\
+
 
 
 The amount of listings per city
@@ -13,13 +13,12 @@ The average price of homes in the cities
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd3tGPgxn0ZZuh8466FpWhzW5PPwi6HtLYVw7LJMrh_fYVokjn_x4-NszIxQKxr7jbTAGgYHQ3F0ywGFsanqQSENfmhjM1ak5Z6wjkSNUo-ZdhNzc7ZSRa4xrDpvtgmaqEx3cSX0RrM8HqDTQuTY2zZxD_o?key=D8CJKx9o3c9i4fC8SYbtKQ)
 
-\
 
 
-findings
 
-\
-\
+*findings
+
+
 
 
 **Data Consistencies**: The data has a significant dropoff when it comes to other cities, To combat this the price analysis on the second chart was used to cross reference the prices of them to define the trend of the prices of areas.
